@@ -1,0 +1,83 @@
+title: GoA ROM Català
+description:  |
+  Traducció del mod de l'Edèn de la Convergència del randomizer!
+  
+  Això només és una traducció, CAL TAMBÉ EL MOD ORIGINAL.
+assets:
+  - name: msg/sp/sys.bar
+    platform: pc
+    method: binarc
+    package: kh2_first
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: text
+  - name: msg/sp/hb.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: hb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: text
+  - name: msg/sp/he.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: he
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: text
+  - name: msg/sp/nm.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: nm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/nm.yml
+            language: text
+  - name: msg/sp/al.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: al
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/al.yml
+            language: text
+  - name: msg/sp/dc.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: dc
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/dc.yml
+            language: text
+  - name: msg/sp/tr.bar
+    platform: pc
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: tr
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tr.yml
+            language: text

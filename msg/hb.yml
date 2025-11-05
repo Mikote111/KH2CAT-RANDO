@@ -1,0 +1,140 @@
+- id: 0x4ECD
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    El Món Que Mai Fou.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A1 00}Som-hi!
+- id: 0x4ECE
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Terra de Dracs.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A2 00}Som-hi!
+- id: 0x4ECF
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Castell de la Bèstia.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A3 00}Som-hi!
+- id: 0x4ED0
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Vila Halloween.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A4 00}Som-hi!
+- id: 0x4ED1
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Agrabah.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A5 00}Som-hi!
+- id: 0x4ED2
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Coliseu de l'Olimp.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A6 00}Som-hi!
+- id: 0x4ED3
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Terres del Regne.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A7 00}Som-hi!
+- id: 0x4ED4
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Vila Crepuscle.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A8 00}Som-hi!
+- id: 0x4ED5
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Baluard Balmat.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A9 00}Som-hi!
+- id: 0x4ED6
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Port Royal.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AA 00}Som-hi!
+- id: 0x4ED7
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Castell Disney.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AB 00}Som-hi!
+- id: 0x4ED8
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Espai Paranoic.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AC 00}Som-hi!
+- id: 0x4ED9
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Vila Crepuscle de Dades.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AD 00}Som-hi!
+- id: 0x4EDA
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Verger Radiant.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay A9 00}Som-hi!
+- id: 0x4F0E
+  sp: >-
+    {:unk08 02 00 06}Aquest portal du a...
+
+    Món del No-Res.
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AE 00}Som-hi!
+- id: 0x4F0F
+  sp: >-
+    Et donem la benvinguda al Mod
+    
+    de l'Edèn de la Convergència!

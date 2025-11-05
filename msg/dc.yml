@@ -1,0 +1,19 @@
+- id: 0x4F6B
+  sp: >-
+    {:unk08 02 00 06}Una Essència intangible, una
+
+    entitat fosca lligada a una arma.
+
+    {:chardelay 33 00}Millor no arriscar-s'hi.
+
+    {:chardelay A1 00}Fem-hi un cop d'ull!
+- id: 0x4F71
+  sp: >-
+    {:unk08 02 00 06}Vols enfrontar-te a una versió més forta
+
+    del Marluxia a partir de les seves dades?
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay AB 00}A punt per lluitar!
+    
