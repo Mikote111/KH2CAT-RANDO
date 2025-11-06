@@ -103,37 +103,37 @@
   sp: Últim arcà
 - id: 0x4F04
   sp: Tret mortífer
-- id: 20239
+- id: 0x4F0F
   sp: "La porta final s'obre
 
     un cop complerts els
 
     teus objectius."
-- id: 17201
+- id: 0x4331
   sp: '{:color #FF000080}Principiant (ALERTA)'
-- id: 17202
+- id: 0x4332
   sp: '{:color #FF000080}Normal (ALERTA)'
-- id: 17203
+- id: 0x4333
   sp: '{:color #FF000080}Expert (ALERTA)'
-- id: 17204
+- id: 0x4334
   sp: "El mode més fàcil, indicat per a aquells
   
     no iniciats a l'univers de Kingdom Hearts.
 
     {:color #FF000080}NO hi juguis si has activat «Critical Bonuses»."
-- id: 17205
+- id: 0x4335
   sp: 'Dificultat estàndard. Mode aconsellat per a
 
     aquells que ja coneixen Kingdom Hearts.
 
     {:color #FF000080}NO hi juguis si has activat «Critical Bonuses».'
-- id: 17206
+- id: 0x4336
   sp: 'Enemics més forts i batalles al límit.
 
     Un mode només apte per als més valents.
 
     {:color #FF000080}NO hi juguis si has activat «Critical Bonuses».'
-- id: 20020
+- id: 0x4E34
   sp: 'Acció a dolls i ni un sol respir.
 
     El joc comença amb certs avantatges.
