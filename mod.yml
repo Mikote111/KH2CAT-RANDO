@@ -15,6 +15,17 @@ assets:
         source:
           - name: msg/sys.yml
             language: text
+  - name: msg/sp/sys.bar
+    platform: pc
+    method: binarc
+    package: kh2_first
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sysrando.yml
+            language: sp
   - name: msg/sp/hb.bar
     platform: pc
     method: binarc
@@ -25,7 +36,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/hb.yml
-            language: text
+            language: sp
   - name: msg/sp/he.bar
     platform: pc
     method: binarc
@@ -36,7 +47,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/he.yml
-            language: text
+            language: sp
   - name: msg/sp/nm.bar
     platform: pc
     method: binarc
@@ -47,7 +58,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/nm.yml
-            language: text
+            language: sp
   - name: msg/sp/al.bar
     platform: pc
     method: binarc
@@ -58,7 +69,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/al.yml
-            language: text
+            language: sp
   - name: msg/sp/dc.bar
     platform: pc
     method: binarc
@@ -69,7 +80,7 @@ assets:
         method: kh2msg
         source:
           - name: msg/dc.yml
-            language: text
+            language: sp
   - name: msg/sp/tr.bar
     platform: pc
     method: binarc
@@ -80,4 +91,34 @@ assets:
         method: kh2msg
         source:
           - name: msg/tr.yml
-            language: text
+            language: sp
+  - name: msg/sp/fontimage.bar
+    platform: pc
+    method: copy
+    package: kh2_first
+    source:
+      - name: msg/fontimage.bar
+  - name: msg/sp/fontinfo.bar
+    platform: pc
+    method: copy
+    package: kh2_first
+    source:
+      - name: msg/fontinfo.bar
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msg/CA_fontimage_bar0.png
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msg/CA_fontimage_bar1.png
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msg/CA_fontimage_bar2.png

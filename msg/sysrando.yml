@@ -1,0 +1,142 @@
+- id: 0x05C8
+  sp: Arma Alfa
+- id: 0x05C9
+  sp: >-
+    Infosa amb memòries nostàlgiques del
+
+    passat. Augmenta la recuperació de PM
+
+    en un {:color #F0F00080}50%{:reset} durant la Recàrrega PM.
+- id: 0x05CA
+  sp: Arma Omega
+- id: 0x05CB
+  sp: >-
+    Farcida de visions profètiques del futur.
+
+    Augmenta el mal dels atacs finals a l'aire,
+
+    amb base al nombre de cops del combo.
+- id: 0x05CC
+  sp: Purasang
+- id: 0x05CD
+  sp: >-
+    Una clau espasa presagiosa que desborda
+
+    foscor. Omple la barra de Fusió amb base
+
+    al mal que reps.
+- id: 0x05E4
+  sp: Clau del Regne D
+- id: 0x05E5
+  sp: >-
+    La Clau Espasa del Rei i resident
+
+    del Regne de la Foscor. La defensa
+
+    augmenta {:color #F0F00080}3{:reset} punts en moments crítics.
+- id: 0x0649
+  sp: >-
+    Amb l'ús del veritable poder de la
+
+    Clau Espasa, empra l'Ordre de Fusió
+
+    per canviar a la Forma Final.
+- id: 0x064A
+  sp: Antiforma
+- id: 0x064B
+  sp: >-
+    Amb l'ús de la foscor del cor
+
+    d'en Sora, empra l'Ordre de Fusió
+
+    per canviar a l'Antiforma.
+- id: 0x0AE4
+  sp: Indicador de Fusió +1!
+- id: 0x0A71
+  sp: Edèn
+- id: 0x0A80
+  sp: Edèn
+- id: 0x0A82
+  sp: Vols tornar a l'Edèn de la Convergència?
+- id: 0x36D4
+  sp: Informe Ànsem 14
+- id: 0x36D5
+  sp: >-
+    Un informe secret escrit per
+
+    l'Ànsem. El pots consultar al
+
+    Diari del Grill.
+- id: 0x3859
+  sp: Vols anar a l'Edèn de la Convergència?
+- id: 0x3D16
+  sp: Cridament Real
+- id: 0x3D17
+  sp: ''
+- id: 0x3D1A
+  sp: Disc Desconegut
+- id: 0x3D1B
+  sp: >-
+    Un disc de dades misteriós que conté els
+    
+    codis per accedir a la {:color #F0F00080}Fàbrica de Sensecor{:reset}.
+- id: 0x4E8D
+  sp: Estocada Sònica
+- id: 0x4E8F
+  sp: Últim arcà
+- id: 0x4E91
+  sp: Tret Diví
+- id: 0x4E93
+  sp: Ragnarok
+- id: 0x4EA0
+  sp: >-
+    Estat de Forma Límit.
+    
+    Una forma especialitzada en atacs Límit.
+    
+    {:color #F0F00080}Punts de Fusió consumits: 4{:reset}
+- id: 0x4EF6
+  sp: Ragnarok
+- id: 0x4EFE
+  sp: Estocada Sònica
+- id: 0x4F01
+  sp: Últim arcà
+- id: 0x4F04
+  sp: Tret mortífer
+- id: 20239
+  sp: "La porta final s'obre
+
+    un cop complerts els
+
+    teus objectius."
+- id: 17201
+  sp: '{:color #FF000080}Principiant (ALERTA)'
+- id: 17202
+  sp: '{:color #FF000080}Normal (ALERTA)'
+- id: 17203
+  sp: '{:color #FF000080}Expert (ALERTA)'
+- id: 17204
+  sp: "El mode més fàcil, indicat per a aquells
+  
+    no iniciats a l'univers de Kingdom Hearts.
+
+    {:color #FF000080}NO hi juguis si has activat «Critical Bonuses»."
+- id: 17205
+  sp: 'Dificultat estàndard. Mode aconsellat per a
+
+    aquells que ja coneixen Kingdom Hearts.
+
+    {:color #FF000080}NO hi juguis si has activat «Critical Bonuses».'
+- id: 17206
+  sp: 'Enemics més forts i batalles al límit.
+
+    Un mode només apte per als més valents.
+
+    {:color #FF000080}NO hi juguis si has activat «Critical Bonuses».'
+- id: 20020
+  sp: 'Acció a dolls i ni un sol respir.
+
+    El joc comença amb certs avantatges.
+
+    {:color #F0F00080}Juga-hi SOBRETOT si has activat «Critical Bonuses».'
+
